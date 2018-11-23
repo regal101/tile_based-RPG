@@ -1,0 +1,9 @@
+Account:oscar
+Current_map:1
+x-coordinate:200
+y-coordinate:200
+Level:1
+Experience:0
+Health:100
+Melee Equipment Level:1
+Range Equipment Level:1
